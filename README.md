@@ -19,7 +19,7 @@ p {
 </head>
 <body>
 
-<h1>My First CSS Example</h1>
+<h1>epic</h1>
 <p>subscribe to pewdiepie</p>
 
 </body>
