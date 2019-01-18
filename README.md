@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>page 1</title>
+  <title>page 1</title>
+  <style>
+    color: #FFBF00
+  </style>
 </head>
 
 <body>
